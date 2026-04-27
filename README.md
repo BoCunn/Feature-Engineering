@@ -175,8 +175,6 @@ This dataset can be used for:
 
 ## Author
 
-Your Name
-Course / Project Name
-Date
+Bowen Cunningham
 
 ---
