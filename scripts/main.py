@@ -6,7 +6,7 @@ import pandas as pd
 import librosa
 
 # ─────────────────────────────────────────────
-#  CONFIGURATION  ← edit these paths as needed
+#   edit these paths as needed
 # ─────────────────────────────────────────────
 AUDIO_DIR = "./data"   # folder containing  .wav / .mp3 files
 OUTPUT_CSV = "features.csv"   # output file name
